@@ -20,5 +20,5 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 - src/app/components/interpolation/interpolation.component.html
 - src/app/components/event-binding/event-binding.component.html
 - src/app/components/event-binding/event-binding.component.ts
-- src/app/components/property-binding/property-binding.component.ts
-- src/app/components/two-way-binding/two-way-binding.component.ts
+- src/app/components/property-binding/property-binding.component.html
+- src/app/components/two-way-binding/two-way-binding.component.html
